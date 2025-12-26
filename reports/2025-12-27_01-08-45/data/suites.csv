@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1104","test_TC001_to_TC016[firefox]","tests","2025-12-27","passed","2025-12-27","","test_todo_functionality","",""
+"","1979","test_TC017_to_TC025[chromium]","tests","2025-12-27","passed","2025-12-27","","test_filter_tabs","",""
+"","593","test_TC026_to_TC033[chromium]","tests","2025-12-27","passed","2025-12-27","","test_ui_validation","",""
+"","1368","test_TC001_to_TC016[chromium]","tests","2025-12-27","passed","2025-12-27","","test_todo_functionality","",""
+"","704","test_TC026_to_TC033[firefox]","tests","2025-12-27","passed","2025-12-27","","test_ui_validation","",""
+"","1468","test_TC017_to_TC025[firefox]","tests","2025-12-27","passed","2025-12-27","","test_filter_tabs","",""
